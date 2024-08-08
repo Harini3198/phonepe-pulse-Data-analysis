@@ -19,8 +19,7 @@
 ## Packages to install
 #### To install the below packages, open new terminal in your source code editor(I used VS Code to run my codes) and type the following pip commands
 
-### * pip install google-api-python-client
-#### googleapiclient.discovery is a library which is used to 
+ 
 ### * pip install pandas
 #### Pandas is used to convert json or dictionary to a Dataframe
 ### * pip install streamlit
@@ -92,6 +91,6 @@
 
 ## Conclusion
 
-### This project will be useful for students who needs to understand and practice the concepts of data analysis and visualization. People Who are thinking of buying shares from phonepe can analyse the growth and use of PhonePe application which will be useful for them before buying the shares of PhonePe. App developers who developed a new UPI app can use this project to compare their app with PhonePe and get an idea of what can be done to improvise their application.
+### This project will be useful for students who needs to understand and practice the concepts of data analysis and visualization. App developers who developed a new UPI app can use this project to compare their app with PhonePe and get an idea of what can be done to improvise their application.
 
 # Thank you, ALL !!!!!!
